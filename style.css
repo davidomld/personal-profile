@@ -18,3 +18,10 @@ ul li {
     border-left: 5px solid #007bff;
 }
 
+.hero-section {
+    background-color: #f8f9fa;
+}
+
+.about-section, .skills-section, .education-section, .contact-section {
+    padding: 20px 0;
+}
